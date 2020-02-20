@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Archive"
-description: "文章归档"
+title: "时间线"
+description: "在时间里漫步"
 header-img: "img/orange.jpg"
 ---
 
