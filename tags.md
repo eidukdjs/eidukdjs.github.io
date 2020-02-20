@@ -2,7 +2,7 @@
 layout: page
 title: "小书签"
 description: "只言片语"  
-header-img: "img/semantic.jpg"  
+header-img: "img/black.jpg"  
 ---
 
 选一个试试看？
