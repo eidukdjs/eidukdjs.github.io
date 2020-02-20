@@ -2,7 +2,7 @@
 layout: page
 title: "ROYZENG"
 description: "谁是ryz " 
-header-img: "img/green.jpg"
+header-img: "img/black.jpg"
 ---
 
 ryz是一个无聊的大学生。
