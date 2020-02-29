@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 关于"劝退"
+title: 关于劝退
 date: 2020-2-29
 categories: blog
 tags: [思考,生活]
